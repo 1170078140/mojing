@@ -1,0 +1,6 @@
+.el-pagination .el-select .el-input .el-input__inner{
+  border-radius: 100px !important;
+}
+.el-select-dropdown__item.selected{
+  font-weight: normal !important;
+}
