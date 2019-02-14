@@ -4,3 +4,6 @@
 .el-select-dropdown__item.selected{
   font-weight: normal !important;
 }
+.el-carousel__arrow i{
+  font-size: 40px;
+}
